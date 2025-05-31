@@ -18,4 +18,10 @@ step 2) Once connected Stage all files --->git add .
 step 3) git commit -m "initial commit".
 step 4) git push -u origin main.
 
+## merge
+
+step 1) git checkout main
+step 2) git pull origin main
+step 3) git merge dev2 or dev1
+
 this repo is dev2
