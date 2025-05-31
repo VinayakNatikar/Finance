@@ -11,11 +11,15 @@ Currently, two official plugins are available:
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
+## To start Development and Production
 
-
+---->npm run dev (Development)
+---->npm run build (Production)
 
 ## Git
+
 step 1) connect your git with https of your repository
 step 2) Once connected Stage all files --->git add .
 step 3) git commit -m "initial commit".
 step 4) git push -u origin main.
+hi this is dev1
