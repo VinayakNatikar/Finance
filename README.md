@@ -25,4 +25,3 @@ step 2) git pull origin main
 step 3) git merge dev2 or dev1
 
 this repo is main
-this repo is dev2
